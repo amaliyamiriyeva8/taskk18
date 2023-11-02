@@ -744,8 +744,14 @@
   .section-3 .container .end .first .all .one {
     width: 100%;
   }
+  .section-3 .container .end .first .all .one .circle-1 {
+    left: 45%;
+  }
   .section-3 .container .end .first .all .two {
     width: 100%;
+  }
+  .section-3 .container .end .first .all .two .circle-2 {
+    left: 45%;
   }
   .section-3 .container .end .second {
     width: 100%;
